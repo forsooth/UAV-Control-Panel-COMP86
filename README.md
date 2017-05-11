@@ -17,7 +17,9 @@ Assignment 6 — Turn the simulator into a functioning game, add a panel to keep
 See the README.txt files in the respective assignment directories for more specific detail about architecture, content, and implementation.
 
 ### Running
-Each assignment directory contains a collection of Java files which will compile into the complete program for that stage. Specifically: 
-`javac Main.java`
-`java Main`
+Each assignment directory contains a collection of Java files which will compile into the complete program for that stage. Specifically:
+```
+javac Main.java
+java Main
+```
 will compile and run any of the phases. 
